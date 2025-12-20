@@ -32,7 +32,7 @@ nav ul li a {
 }
 
 .hero {
-  height: 90vh;
+  height: 40vh;
   background: linear-gradient(to right, purple, black);
   color: white;
   display: flex;
@@ -89,3 +89,4 @@ input, textarea, button {
   margin-top: 10px;
   padding: 10px;
 }
+
